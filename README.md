@@ -11,17 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Discussion 1 
 
-# Services
-#####Appointment Setting
-#####Chat Support & Live Chat Software
-#####Lead Generation
-#####Virtual Assistance
-#####SEO Marketing
-#####Surveys
-#####Web Design & Web Development
-#####Sales & Telemarketing
-#####English Tutorial
-#####Customer & Technical Support
+# focus group discussion
 
 
 
@@ -29,13 +19,20 @@ Discussion 1
 ## About us
 
 
-### Header 3
+### Services
 
-- Bulleted
-- List
+- Appointment Setting
+- Chat Support & Live Chat Software
+- Lead Generation
+- Virtual Assistance
+- SEO Marketing
+- Surveys
+- Web Design & Web Development
+- Sales & Telemarketing
+- English Tutorial
+- Customer & Technical Support
 
-1. Numbered
-2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
