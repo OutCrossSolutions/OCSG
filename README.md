@@ -18,6 +18,10 @@ Discussion 1
 
 ## About us
 
+Outcross Solutions began its launch on 27th of February 2017, a week after its first ever client deal was closed. As a start up company, its concept specifically included the idea of helping out small and medium size companies achieve their sales target. As a telemarketing center, we find ways to upsell and cross sell against our current database to keep the momentum alive with our client’s customers and potential customers.
+
+Early in Outcross Solutions’ development, it began to expand globally, with the creation of new contracts with our international clients. As telemarketing promises to be the most effective consumer engagement method, the demand for business to business telemarketing kept on increasing. Thus the concept of compiling the world’s most in demand telemarketing sectors in a single location. Our team provides top of the line sales technique which is a result of years of practice, refinement and comprehensive understanding of a good sales approach.
+
 
 ### Services
 
